@@ -1,0 +1,34 @@
+.welcome{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+body {
+    font-family: Gill Sans,Symbol!important;
+}
+
+.container h1{
+    font-size: 78px;
+    padding-top: 40px;
+    font-weight: bold;
+    Text-align:center
+}
+
+.container .welcome p{
+    font-size: 18px;
+    Text-align:center;
+    width: 90%;
+    padding-bottom: 20px;
+}
+
+.container h2{
+    padding-top: 20px;
+    font-size: 55px;
+    font-weight: bold;
+    Text-align:center
+}
+
+.container .comments{
+    text-align: left;
+}
